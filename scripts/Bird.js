@@ -58,6 +58,6 @@ class Bird extends Rectangle{
 
     //向上跳跃，给一个向上的速度
     jump(){
-        this.ySpeed = -380;
+        this.ySpeed = -360;
     }
 }
